@@ -5,3 +5,5 @@ report : report.tex
 	bibtex report
 	xelatex report.tex
 	xelatex report.tex
+slide : beamer.tex
+	xelatex beamer.tex

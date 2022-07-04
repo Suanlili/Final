@@ -1,3 +1,0 @@
-root :
-	gcc -o roots src/roots.c -IGSL/include -LGSL/lib -lgsl -lgslcblas
-

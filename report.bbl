@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{Ehiwario2014Comparative}
+Ehiwario and Aghamie.
+\newblock Comparative study of bisection, newton-raphson and secant methods of
+  root- finding problems.
+\newblock (4), 2014.
+
+\bibitem{gslref}
+GSL.
+\newblock One dimensional root-finding.
+\newblock \url{https://www.gnu.org/software/gsl/doc/html/roots.html}.
+\newblock Accessed 4 July.
+
+\bibitem{wikien}
+Wikipedia.
+\newblock Newton's method.
+\newblock \url{https://en.wikipedia.org/wiki/Newton\%27s_method}.
+\newblock Accessed 4 July.
+
+\end{thebibliography}
